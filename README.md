@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi, I’m SH AN<br><br>I am a software developer with a focus on building reliable, maintainable systems and delivering value through clean, well-tested code. I enjoy solving complex problems and continuously improving both my craft and the products I work on.<br><br>- 🔭 Current focus: [e.g., "Designing scalable backend services in Go"]<br>- 📚 Learning: [e.g., "System design and cloud infrastructure (AWS)"]<br>- 🤝 Open to collaborate on: [e.g., "Open source tools for developer productivity"]<br>- 💬 Technical expertise: [e.g., "JavaScript/TypeScript, Python, REST APIs, PostgreSQL"]<br>- 📫 Contact: [e.g., "sh4n.dev@gmail.com"]<br>- 🧩 Interests: Software architecture, performance optimization, developer tooling
 
+### ✍️ View Count
+![](https://count.getloli.com/get/@:Sh4nDev?theme=gelbooru)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sh4n.Dev1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ShAn.dev) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sh4n.dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sh4n.dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sh4n.dev@gmail.com) 
@@ -14,9 +16,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sh4nDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ View Count
-![](https://count.getloli.com/get/@:Sh4nDev?theme=gelbooru)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sh4nDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
